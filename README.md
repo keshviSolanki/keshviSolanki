@@ -4,7 +4,7 @@ I'm **Keshvi Solanki**, a **B.E. Information Technology student** passionate abo
 
 ## 💫 About Me
 
-🎓 **B.E. IT | GTU | CGPA: 8.87**
+🎓 **B.E. IT | GTU | CGPA: 8.80**
 💻 **MERN Stack Developer** | React | Node.js | Express.js | MongoDB
 🤖 Working with **LangChain, LangGraph & RAG** for AI-powered features in my projects
 🏗️ Interested in building **scalable, secure, and production-ready web applications**
