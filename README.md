@@ -108,11 +108,6 @@ A modern dashboard application for managing **student information, activities an
 
 ---
 
-# 👀 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=keshviSolanki\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
----
 
 # 🤝 Connect With Me
 
