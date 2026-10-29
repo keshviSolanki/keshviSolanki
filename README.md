@@ -104,7 +104,7 @@ A modern dashboard application for managing **student information, activities an
 🗄️ Learn **Cloud Storage & Cloud Architecture**
 🏗️ Improve **Scalable Backend Architecture**
 🧩 Learn **System Design**
-🚀 Build more **production-ready full-stack applications**
+🚀 Build more **production-ready full-stack web applications**
 
 ---
 
