@@ -154,12 +154,6 @@ An AI-powered application that uses YouTube video transcripts to answer user que
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=keshviSolanki&theme=tokyonight&no-frame=false&margin-w=4)
-
----
-
 # 🤝 Let's Connect!
 
 I'm always interested in connecting with developers, engineers and recruiters working in **Full-Stack Development, Generative AI and Agentic AI**.
