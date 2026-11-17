@@ -160,6 +160,7 @@ An AI-powered application that uses YouTube video transcripts to answer user que
   <a href="https://github.com/keshviSolanki">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/keshvi-solanki-805a53412/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
