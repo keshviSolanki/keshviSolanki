@@ -1,124 +1,170 @@
-# 👋 Hi there!
+# 👋 Hi, I'm Keshvi Solanki!
 
-I'm **Keshvi Solanki**, a **B.E. Information Technology student** passionate about **Full-Stack Web Development and Backend Engineering**.
+### Full-Stack Developer | Generative AI & Agentic AI Enthusiast
+
+I'm a **B.E. Information Technology student** passionate about building scalable web applications and intelligent AI-powered systems. I enjoy combining **MERN Stack development with Generative AI and Agentic AI** to turn ideas into practical, real-world products.
 
 ## 💫 About Me
 
-🎓 **B.E. IT | GTU | CGPA: 8.80**
-💻 **MERN Stack Developer** | React | Node.js | Express.js | MongoDB
-🤖 Working with **LangChain, LangGraph & RAG** for AI-powered features in my projects
-🏗️ Interested in building **scalable, secure, and production-ready web applications**
+🎓 **B.E. Information Technology | GTU | CGPA: 8.80**
 
-I enjoy building real-world projects, from **SaaS platforms and AI-integrated applications to travel, booking, and productivity systems**. I love learning new technologies and turning ideas into practical solutions.
+💻 Experienced in building full-stack applications using **MongoDB, Express.js, React.js and Node.js**.
 
-🚀 **Future Focus:** Cloud Computing • Cloud Storage • Cloud Architecture • Scalable Backend Systems • System Design
+🤖 Exploring and building AI-powered applications using **LLMs, RAG, LangChain, LangGraph and AI Agents**.
+
+🏗️ Interested in **microservices, backend architecture, REST APIs, authentication and scalable systems**.
+
+🚀 Currently looking for opportunities as a **MERN Stack Developer, Full-Stack Developer, Generative AI Engineer or Agentic AI Engineer**.
+
+I enjoy learning new technologies, solving problems and developing projects that combine modern web technologies with intelligent AI capabilities.
 
 ---
 
-# 💻 Tech Stack
+# 🧠 Technical Skills
 
-### 🧑‍💻 Languages
+## 🤖 Generative AI & Agentic AI
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### ⚛️ Frontend
-
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge\&logo=ejs\&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### 🛠️ Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-
-### 🗄️ Database & Caching
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### 🤖 AI Integration
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### ☁️ Cloud & Tools
+- Large Language Models (LLMs) and Generative AI
+- Prompt Engineering and Context Management
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and Vector Databases
+- LangChain and LangGraph
+- AI Agents and Multi-Agent Systems
+- Tool Calling and AI Automation
+- LLM API Integration
+- Conversational AI Applications
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+## 💻 MERN Stack & Full-Stack Development
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+- REST API Development
+- Authentication and Authorization
+- Microservices Architecture
+- API Integration
+- Backend Development and Optimization
+
+### Database & Vector Storage
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
+### Cloud, DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Multi-Agent AI Platform
+### 🤖 KeshAI – AI-Powered Multi-Agent Platform
 
-A full-stack AI platform built with **MERN, LangChain, LangGraph, RAG, Qdrant, Redis and Docker**, designed to work with multiple AI agents and knowledge sources.
+A full-stack AI application built using **MERN, microservices and Generative AI technologies**.
 
-### 🌐 Prompt2Site
+- Integrated LLM-powered AI functionality and RAG architecture.
+- Worked with LangChain, LangGraph, Qdrant and Redis.
+- Implemented authentication, API gateway and multiple backend services.
+- Used Docker and AWS for deployment.
 
-An AI-powered website generation platform that converts user prompts into websites using **React, Node.js and AI integration**.
+### 💻 KS-AIcodeEditor – AI-Powered Code Editor
 
-### 💼 AI SaaS Agent Platform
+An AI-powered code editor that generates code based on natural-language prompts.
 
-A SaaS platform combining **AI agents, authentication, payments and cloud-based services** to provide intelligent automation features.
+- Integrated AI-based code generation.
+- Automatically organizes generated code into project folders.
+- Combines AI capabilities with modern web development.
 
-### ✈️ Smart Vacation Rental & Travel Platform
+### 📚 KeshLib – AI React Component Library
 
-A full-stack travel and booking application featuring **trip planning, activities, cities, authentication, Redis and MongoDB**.
+A MERN-based SaaS platform for generating and managing reusable React UI components.
 
-### 📚 Student Dashboard
+- Built component generation and management functionality.
+- Implemented authentication and credit-based usage.
+- Worked with React, Node.js, Express and MongoDB.
 
-A modern dashboard application for managing **student information, activities and academic data**.
+### 🌐 Prompt2Site – AI Website Generator
+
+An AI-powered website generation platform that converts natural-language prompts into website code.
+
+- Integrated LLM APIs for website generation.
+- Built the application using React, Node.js and MongoDB.
+- Implemented user authentication and credit-based functionality.
+
+### 🔎 YouTube Transcript RAG Application
+
+An AI-powered application that uses YouTube video transcripts to answer user questions.
+
+- Extracts video transcripts.
+- Uses embeddings and vector-based retrieval.
+- Applies RAG to generate context-aware answers.
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 Current Interests & Goals
 
-![](https://github-readme-stats.shion.dev/api?username=keshviSolanki\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+- Building intelligent AI agents and multi-agent applications.
+- Exploring advanced Generative AI and RAG architectures.
+- Developing scalable MERN applications and backend systems.
+- Learning advanced system design and microservices.
+- Exploring cloud computing, cloud architecture and deployment.
+- Building production-ready applications combining AI and full-stack development.
 
-![](https://streak-stats.demolab.com/?user=keshviSolanki\&theme=dark\&hide_border=false)
+---
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=keshviSolanki\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.shion.dev/api?username=keshviSolanki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=keshviSolanki&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=keshviSolanki&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=keshviSolanki\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=keshviSolanki&theme=tokyonight&no-frame=false&margin-w=4)
 
 ---
 
-# 🎯 Future Goals
+# 🤝 Let's Connect!
 
-☁️ Learn **Cloud Computing**
-🗄️ Learn **Cloud Storage & Cloud Architecture**
-🏗️ Improve **Scalable Backend Architecture**
-🧩 Learn **System Design**
-🚀 Build more **production-ready full-stack web applications**
+I'm always interested in connecting with developers, engineers and recruiters working in **Full-Stack Development, Generative AI and Agentic AI**.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshviSolanki)
 
+⭐ If you like my projects, feel free to explore my repositories and give them a star!
 
-# 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/keshviSolanki">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
----
-
-⭐ **If you like my projects, consider giving them a star!**
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
